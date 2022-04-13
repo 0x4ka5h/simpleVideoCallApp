@@ -1,22 +1,3 @@
-+++
-title = "A Simple Video Call App with python Sockets"
-description = "This project is used to communicating a person in local network"
-date = 2020-01-20T07:34:48+08:30
-featured = false
-draft = false
-comment = false
-toc = false
-reward = false
-categories = [
-  "Socket"
-]
-tags = [
-  "ImageProcessing",
-  "openCV"
-]
-series = []
-images = ["images/1.png"]
-+++
 ### Introduction 
 Hey mates😊. How are you? Hope you all are begin good.By the way, This is my first blog. Did you know my name 🥱? Well, I am Akash.
 
@@ -200,14 +181,3 @@ recvV.start()
 sendV.start()
 ```
 	Now, server gets continious data of Clients Video and Audio.
-
-Now, We just have to write receieve functions for Image and Audio data in client side and sending function in serverside.
-
-[simpleVideoCallApp](https://github.com/g00g1y5p4/simpleVideoCallApp/)
-
-Hope you guys like and Subscribe to this Utube account 😂😂.
-
----
-```
-```
-##### Thanks for reading! {align=center}
