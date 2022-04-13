@@ -1,11 +1,3 @@
-### Introduction 
-Hey mates😊. How are you? Hope you all are begin good.By the way, This is my first blog. Did you know my name 🥱? Well, I am Akash.
-
-#### Why we are here?
-To make some fun? 😕! No, But we're here to learn something new in a funny way. Funny while learning😒? Yeah!.,
-
-By the way, What's the new thing? Guess? 🤔🤔..  How to copy some code from StackOverflow easily using python? 😅, No. We are here to learn How to code **Simple VideoCall App with python sockets**.
-
 VideoCall App? Android Application ah? No, Just a simple python interpreter application. But useful for future step😊.
 
 #### About project ..!
